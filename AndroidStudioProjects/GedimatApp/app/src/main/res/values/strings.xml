@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GedimatApp</string>
+    <string name="libImport">IMPORTER</string>
+    <string name="libExport">EXPORTER</string>
+</resources>
